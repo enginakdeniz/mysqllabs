@@ -2,7 +2,7 @@
 
 Given the following ER diagram:
 
-
+![lab01](https://user-images.githubusercontent.com/7565785/131219753-feec5939-6d7c-49cf-9c99-bbab5908645f.png)
 
 And given the following information:
 

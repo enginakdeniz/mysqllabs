@@ -1,4 +1,5 @@
 
+![lab02](https://user-images.githubusercontent.com/7565785/131219763-8a3fed82-2786-42fc-8e99-d44835172d30.png)
 
 Yukarıdaki tablolardan oluşan BlogDB veritabanını hazırlayarak veri giriniz.
 
